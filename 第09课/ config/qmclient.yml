@@ -7,3 +7,6 @@ server:
 spring:
   application:
     name: qmclient
+management:
+  security:
+    enabled: false
